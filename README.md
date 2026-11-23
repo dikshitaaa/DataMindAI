@@ -36,3 +36,9 @@ Built with **Python**, **Streamlit**, and **Scikit-learn**, this app allows user
    ```bash
    git clone https://github.com/dikshitaaa/DataMindAI.git
    cd DataMindAI
+
+   # ✳️ DataMind AI
+
+**🚀 Live Demo:** [https://datamind-lab.streamlit.app/](https://datamind-lab.streamlit.app/)
+
+**DataMind AI** is an intelligent, end-to-end Data Exploration and Machine Learning web application...
